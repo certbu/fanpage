@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to bottom, #041626, #000000);
+    background-color: linear-gradient #041626;
+    color: #04C4D9;
+    font-family: "Anta", sans-serif;
+    font-size: 30px;
+    text-align: left;
+}
+h1 {
+    color: #a7c2fc;
+}
+h2 {
+    color: #8dbce2;
+}
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 25%;
+    max-height: 25%;
+    height: auto;
+    width: auto;
+    }
+
