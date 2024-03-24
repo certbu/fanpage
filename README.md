@@ -11,7 +11,8 @@ Este proyecto es una pagina creada para dar a conocer detalles de la banda estad
  ### Tecnologías Utilizadas
   + **HTML5**: Para la estructura básica del sitio.
   +  **CSS3**: Para el diseño y estilo. incluyendo _flexbox_ para un diseño responsivo y efectos de _hover_.
-
+    ###Enlace de visualizacion
+[Fan Page](https://fanpage-chi.vercel.app/)
 ### Vista Previa del proyecto 
 ![Demo](/imagenes/Cstarset.jpeg)
 
